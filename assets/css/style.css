@@ -1,8 +1,4 @@
-/*==================================
-* Author        : "ThemeSine"
-* Template Name : CarVilla  HTML Template
-* Version       : 1.0
-==================================== */
+
 
 /*==================================
 font-family: 'Poppins', sans-serif;
@@ -206,7 +202,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(../images/welcome-hero/welcome-banner.jpg)no-repeat;
+    background:url(../images/welcome-hero/autorepair.jpg)no-repeat;
     background-position: center;
     background-size: cover;
     z-index: 1;
