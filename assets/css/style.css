@@ -643,21 +643,28 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     font-weight: 400;
     text-transform: capitalize;
 }
-.footer-social{text-align: right;}
-.footer-social a i {
+.footer-social{
+    text-align: center;}
+
+    
+/* .footer-social a i {
     color: #fff;
     opacity: .40;
     font-size: 14px;
-    margin-left: 16px;
+    margin-left: 206px;
     -webkit-transition: .3s; 
     -moz-transition:.3s; 
     -ms-transition:.3s; 
     -o-transition:.3s;
     transition: .3s;
-}
+} */
 .footer-social i:hover{opacity: .70;}
 /*.footer-copyright */
 
+/* developer bio starts */
+.developer-bio{
+    align-items: center;
+}
 
 /* Who we are section starts here */
 /*  */
