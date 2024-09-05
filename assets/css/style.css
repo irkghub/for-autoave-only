@@ -202,7 +202,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(../images/welcome-hero/autorepair.jpg)no-repeat;
+    background:url(../images/welcome-hero/suzuki_autoave.png)no-repeat;
     background-position: center;
     background-size: cover;
     z-index: 1;
@@ -686,7 +686,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     font-size: 16px;
     color: #555;
     line-height: 1.5;
-    text-align: justify;
+    /* text-align: justify; */
     text-align: center;
 }
 
